@@ -1,4 +1,5 @@
 # Movie Trailer Website
+> Alain Boisvert, Québec, Canada, 2017-07-30.
 
 ## Summary
 
@@ -6,9 +7,22 @@ Here is my first project for the "Full Stack Web Developer Nanodegree".
 
 This repository contains a Python code to store a list of movies from my favorite film director and writer (Denis Villeneuve), including box art imagery and a movie trailer URL. This data is served as a web page allowing visitors to review their movies and watch the trailers.
 
-## How I 
+## How did I develop this code?
 
-I have applied the following rules...
+This application contains three python files.
+- `media.py`: This class provides a way to store movie related information.
+- `entertainment_center.py`: This code creates five movies instances of Denis Villeneuve, and execute `fresh_tomatoes.open_movies_page()` to display a movie website with these movies.
+- `fresh_tomatoes.py`:	This Python module generate a website that displays these movies. This module comes from [here](https://github.com/udacity/ud036_StarterCode/blob/master/fresh_tomatoes.py).
+
+## What did I learn?
+
+I already knew Java and javascript. In this work, I learned the syntax of Python, where is the documentation, IDLE (Python's Integrated Development Environnement), how to submit a project in GitHub, etc. 
+
+This project is relatively easy since all the instructions found [here](https://classroom.udacity.com/nanodegrees/nd004/parts/fe2ad0cf-06b0-4541-87ab-0b6d59e21ef1/modules/3a35570a-8e9d-4088-96d0-3dbe22d1fcb6/lessons/3561209451239847/concepts/36057486950923).
+
+Nevertheless, it took all my Sunday, but I'm happy with the result.
+
+Among others, I applied the following syntax rules:
 - Use 4 spaces per indentation level.
 - Limit all lines to a maximum of 79 characters.
 - Line break before a binary operator.
@@ -16,9 +30,11 @@ I have applied the following rules...
 
 ## Quickstart
 
-All steps required to successfully run the application are :
+To run the application, you need to download the project and run `entertainment_center.py`.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Here's what you should see on your screen.
+
+![Screenshot 1](https://raw.githubusercontent.com/boisalai/movie_trailer_website/master/images/screen.png "Screenshot 1")
 
 ## Who is Denis Villeneuve?
 
