@@ -18,6 +18,8 @@ I have applied the following rules...
 
 All steps required to successfully run the application are :
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 ## Who is Denis Villeneuve?
 
 Denis Villeneuve is a Canadian film director and writer. He is a four-time recipient of the Canadian Screen Award (formerly Genie Award) for Best Direction, for Maelström in 2001, Polytechnique in 2010, Incendies in 2011, and Enemy in 2013. See [Wikipedia](https://en.wikipedia.org/wiki/Denis_Villeneuve).
