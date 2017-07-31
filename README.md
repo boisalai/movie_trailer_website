@@ -28,6 +28,22 @@ Among others, I applied the following syntax rules:
 - Line break before a binary operator.
 - Imports should usually be on separate lines.
 
+## Check code for PEP8 requirements (update 2017-07-31 after review)
+
+I used the online PEP8 checker. I simply paste my code into this [website] (http://pep8online.com/), see the results, fix my code until the PEP8 check finds no errors.
+
+Here, log file from online PEP8 checker.
+- [media.py](PEP8\result_20170731_224930.txt)
+- [entertainment_center.py](PEP8\result_20170731_225329.txt)
+
+However, I am not comfortable with the rule "line break before binary operator". Although I have corrected the problem indicated by PEP8 checker, I am rather of the same opinion with what is written here: [Should a line break before or after a binary operator?](https://www.python.org/dev/peps/pep-0008/#should-a-line-break-before-or-after-a-binary-operator) and [W503 enforces breaking after binary operators but PEP-8 appears to disagree](https://github.com/PyCQA/pycodestyle/issues/513).
+
+Reviewer, what do you think about that? :confused:
+
+
+
+
+
 ## Quickstart
 
 To run the application, you need to download the project and run `entertainment_center.py`.
