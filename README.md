@@ -1,5 +1,5 @@
 # Movie Trailer Website
-> Alain Boisvert, Québec, Canada, 2017-07-30.
+> Alain Boisvert, Québec, Canada, 2017-07-30.<br>
 > Updated 2017-07-31: See section [Check code for PEP8 requirements](#pep8) below.
 
 ## Summary
