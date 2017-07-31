@@ -1,5 +1,6 @@
 # Movie Trailer Website
 > Alain Boisvert, Québec, Canada, 2017-07-30.
+> Updated 2017-07-31: See section [Check code for PEP8 requirements](#pep8) below.
 
 ## Summary
 
@@ -28,6 +29,7 @@ Among others, I applied the following syntax rules:
 - Line break before a binary operator.
 - Imports should usually be on separate lines.
 
+<a name="pep8"></a>
 ## Check code for PEP8 requirements (update 2017-07-31 after review)
 
 I used the online PEP8 checker. I simply paste my code into this [website](http://pep8online.com/), see the results, fix my code until the PEP8 check finds no errors.
